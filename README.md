@@ -8,7 +8,7 @@ A college student who is self-taught.
 
 - QQ： [2528264882](https://qm.qq.com/)
 
-- WeChat： [lyrichest]([https://cdn.jsdelivr.net/gh/lsimply/Img@img/img/WeChat.png])
+- WeChat： [lyrichest](https://cdn.jsdelivr.net/gh/lsimply/Img@img/img/WeChat.png)
 
 - Gmail： [richeist@outlook.com](mailto:richeist@outlook.com)
 
