@@ -2,7 +2,6 @@
 
 # I'm LSimply
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NianBroken&include_all_commits=true&rank_icon=github&hide_title=true&" alt="nianbroken" />
 
 A college student who is self-taught.
 
