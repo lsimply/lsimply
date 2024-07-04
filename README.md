@@ -11,7 +11,7 @@ A college student who is self-taught.
 
 - Gmail： [richeist@outlook.com](mailto:richeist@outlook.com)
 
-- Give me money： [Payment Code]()
+- Give me money： [Payment Code](https://pay.lyone.xyz)
 
 ------
 
