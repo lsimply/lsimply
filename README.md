@@ -5,11 +5,8 @@
 
 A college student who is self-taught.
 
-- QQ： [2528264882](https://qm.qq.com/)
 
-- WeChat： [lyrichest](https://cdn.jsdelivr.net/gh/lsimply/Img@img/img/WeChat.png)
-
-- Gmail： [richeist@outlook.com](mailto:richeist@outlook.com)
+- Gmail： [github@252826.xyz](mailto:github@252826.xyz)
 
 - Give me money： [Payment Code](https://pay.lyone.xyz)
 
@@ -24,13 +21,3 @@ A college student who is self-taught.
 - Proficient in internal network penetration, proficient in understanding and using Metasploit and Cobalt Strike, skilled in privilege escalation and lateral movement.
 - Experience in APT attack and defense, understanding of mainstream APT attack methods.
 
-**Bonus points:**
-
-- High ranking on vulnerability platforms.
-- Published articles with high likes or favorites in major security communities.
-- Passion for learning, good communication skills.
-- Proficiency in binary reverse engineering.
-- Experience in Capture The Flag (CTF) competitions.
-- Does not keep long fingernails.
-- Familiar with methods of rooting phones or other devices.
-- Has a "tk" xp and "ee" attribute.
